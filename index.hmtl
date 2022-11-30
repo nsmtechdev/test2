@@ -61,7 +61,6 @@
       </div>    
       
 
-
       <section id="seccion-oradores">
         <div class="titulo2">
     CONOCE A LOS
@@ -127,10 +126,7 @@
         </div>
       </div>
     </div>      
-    
-  
-  
-  
+     
   
     <!--FORMULARIO-->
   <section id="form">
@@ -154,35 +150,6 @@
 </section> 
 
 
-
-
-
-
-
-
-
-
-    <section id="form">
-                        
-        <h3>Conviertete en un Orador</h3>
-        <h5></h5>Anótate como orador para dar una charla ignite. Cuéntanos de qué quieres hablar!</h5>
-        <div class="row g-4" id="form">
-         <div class="col">
-           <input type="text" class="form-control" placeholder="Nombre" aria-label="First name">
-         </div>
-         <div class="col">
-           <input type="text" class="form-control" placeholder="Apellido" aria-label="Last name">
-         </div>
-         <div class="col-12">
-           <textarea class="form-control form-control-lg" id="exampleFormControlTextarea1" placeholder="Sobre que quieres hablar?" aria-label=".form-control-lg example" rows="3"></textarea>
-           <p class="text-secondary"><small>Recuerda incluir un título para tu charla</small></p>
-           <button type="submit" class="btn btn-primary col-12" id="colorBtn" >Enviar</button>
-         </div>
-         </div>
-
- </section> 
-
-
  <footer>
     <ul class=" nav justify-content-center "> 
      <div id="foot1">
@@ -198,7 +165,3 @@
 </footer>
 </body>
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Ter
